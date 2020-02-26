@@ -13,7 +13,7 @@ body {
   font-size: 1rem;
   overflow-y: scroll;
   overflow-x: hidden;
-  font-family: 'roboto', 'sans-serif';
+  font-family: 'roboto', arial, sans-serif;
   display: flex;
   flex-flow: column wrap;
   width: 100vw; }
@@ -135,7 +135,7 @@ a:link {
   border: none;
   border-radius: 5px;
   padding: 0.5vh 2vw;
-  font-family: 'roboto', 'sans-serif';
+  font-family: 'roboto', arial, sans-serif;
   font-size: 0.8rem; }
 
 .searcher--active {
@@ -214,7 +214,7 @@ a:link {
   padding: 1.5vh 4vw;
   font-size: 0.9rem;
   color: black;
-  font-family: 'roboto', 'sans-serif';
+  font-family: 'roboto', arial, sans-serif;
   background: #ffffff;
   text-shadow: 0 0 1px black;
   border: none; }
@@ -289,7 +289,7 @@ a:link {
   padding: 1.5vh 4vw;
   font-size: 0.9rem;
   color: #ffffff;
-  font-family: 'roboto', 'sans-serif';
+  font-family: 'roboto', arial, sans-serif;
   background: #b22222;
   text-shadow: 0 0 1px black;
   border: none;
